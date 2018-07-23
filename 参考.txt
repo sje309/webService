@@ -1,0 +1,4 @@
+1、如何用IDEA一步一步开发WebService
+https://blog.csdn.net/u010323023/article/details/52926051
+2、JAVA项目中发布WebService服务——简单实例
+https://blog.csdn.net/hanxuemin12345/article/details/40163757
